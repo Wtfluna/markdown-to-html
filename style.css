@@ -1,0 +1,59 @@
+body {
+    padding: 16px;
+    background-color: #D3DCF5;
+}
+
+header {
+    text-align: center;
+}
+
+.tableau {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.liste {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.liste2 {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: auto;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 10px;
+    margin: auto;
+}
+
+thead {
+    border: 1px solid black;
+    font-weight: 700;
+}
+
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: square;
+}
